@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> EVERGREEN_contact_us </title>
+<style>
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<h1> <b> CONTACT US </b> </h1>
+
+<body background="F:\Website Background\E.jpg">
+
+<ul>
+<li> <a href="MAIN.html"> HOME </a> </li>
+<li> <a href="Products.html"> PRODUCTS </a> </li>
+<li> <a href="AboutUs.html"> ABOUT US </a> </li>
+<li style="float:right"> <a href="Home.html"> LOG OUT </a> </li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<center> <font color="white"> <b> <h2> FACEBOOK: <br>
+	EVERGREEN FB_Official <br>
+	<br>
+	INSTAGRAM: <br> 
+	EVERGREEN_IG_Official <br>
+	<br> 
+	TWITTER: <br> 
+	EVERGREEN_Official <br>
+	<br> 
+	ADDRESS: Baguio City, Philippines <br>
+	<br>
+	</h2> </font> </b>
+
+</body>
+
+</html>
