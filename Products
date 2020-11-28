@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> EVERGREEN_products </title>
+<style>
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<h1> <font color="MediumSeaGreen"> <b> PRODUCTS </b> </font> </h1>
+
+<body background="F:\Website Background\C.jpg">
+
+<ul>
+<li> <a href="MAIN.html"> HOME </a> </li>
+<li> <a href="ContactUs.html"> CONTACT US </a> </li>
+<li> <a href="AboutUs.html"> ABOUT US </a> </li>
+<li style="float:right"> <a href="Home.html"> LOG OUT </a> </li>
+</ul>
+
+<center>
+<br>
+<img src="F:\Website Background\1.jpg" height="450" width="450" border="5">
+<p> <font color="black"> FOREST ROSE <br>
+						Succulent <br>
+						PRICE: PHP 18,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\2.jpg" height="450" width="450" border="5">
+<p> <font color="black"> LITTLE HYDRA <br>
+						Succulent <br>
+						PRICE: PHP 18,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\3.jpg" height="450" width="450" border="5">
+<p> <font color="black"> GAIA's FRILLS <br>
+						Succulent <br>
+						PRICE: PHP 20,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\4.jpg" height="450" width="450" border="5">
+<p> <font color="black"> MORNING KISS <br>
+						Succulent <br>
+						PRICE: PHP 19,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\5.jpg" height="450" width="450" border="5">
+<p> <font color="black"> GREEN WINGS <br>
+						Succulent <br>
+						PRICE: PHP 25,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\6.jpg" height="450" width="450" border="5">
+<p> <font color="black"> WINDOW PEEPER <br>
+						Succulent <br>
+						PRICE: PHP 24,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\7.jpg" height="450" width="450" border="5">
+<p> <font color="black"> BABY FLURRY <br>
+						Succulent <br>
+						PRICE: PHP 17,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\8.jpg" height="450" width="450" border="5">
+<p> <font color="black"> BEAST PAW <br>
+						Succulent <br>
+						PRICE: PHP 17,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="F:\Website Background\9.jpg" height="450" width="450" border="5">
+<p> <font color="black"> EVENFALL KISS <br>
+						Succulent <br>
+						PRICE: PHP 23,999 <br>
+</font> <p>
+<center> <button> <font color="SteelBlue"> <b> <h4 > ADD TO CART </h4> </font> </b> </a> </button> </center> 
+<br>
+<br>
+<img src="/Volumes/HP RAJ/PHOTOS/IMG 7.jpg" height="650" width="4
