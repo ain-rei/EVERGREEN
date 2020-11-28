@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> EVERGREEN </title>
+</head>
+
+<br>
+<h1> <center> <b> <font color="white"> EVERGREEN </font> </b> </center> </h1>
+<br>
+<h2> <center> <b> <i> <font color="white"> -- timeless, eternal -- </font> </i> </b> </center> </h2>
+<br>
+
+<body background="F:\Website Background\B.jpg">
+
+
+<br>
+<a href="Products.html"> <center> <b> <font color="white"> <b> <h3 style="background-color:SeaGreen;"> PRODUCTS </h3> </font> </b> </center> </a>
+<br>
+<a href="AboutUs.html"> <center> <b> <font color="white"> <b> <h3 style="background-color:SeaGreen;"> ABOUT US </h3> </font> </b> </center> </a>
+<br>
+<a href="ContactUs.html"> <center> <font color="white"> <b> <h3 style="background-color:SeaGreen;"> CONTACT US </h3> </font> </b> </center> </a>
+<br>
+<a href="Home.html"> <center> <font color="white"> <b> <h3 style="background-color:SeaGreen;"> LOG OUT </h3> </font> </b> </center> </a>
+<br>
+
+
+</body>
+
+</html>
